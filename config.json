@@ -1,6 +1,6 @@
 {
-    "uri": "30592b6329ea4bf68a5d29e0f203d50c.s1.eu.hivemq.cloud",
+    "uri": "<host URL>",
     "topic": "test",
-    "username": "admin",
-    "password": "Ampir32001"
+    "username": "<username>",
+    "password": "<password>"
 }
